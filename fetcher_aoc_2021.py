@@ -1,4 +1,6 @@
-"""Library to get advent of code input for 2021.
+"""
+von Kamik423 Link: https://github.com/Kamik423/advent-of-code-2021/blob/main/aoc.py
+Library to get advent of code input for 2021.
 It uses a cookie file (COOKIE.txt) to authenticate you on the aoc server. It
 then downloads and caches the input as not to spam the server.
 The cookie is a long hexadecimal number that you can manually extract from a
